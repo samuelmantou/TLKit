@@ -29,7 +29,6 @@
 //MARK: NSData
 #import "NSData+TLBase64.h"                   // NSData Base64编解码
 #import "NSData+TLEncrypt.h"                  // NSData AES、Des等加解密
-#import "NSData+TLGzip.h"                     // NSData Gzip
 #import "NSData+TLHash.h"                     // NSData Md5、sha1等hash计算
 
 //MARK: NSArray
